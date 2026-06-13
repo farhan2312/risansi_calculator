@@ -45,7 +45,7 @@
     border-bottom:3px solid var(--cyan);
   }
   .brand{ display:flex; align-items:center; gap:14px; }
-  .brand img{ height:38px; display:block; background:#fff; padding:6px 10px; border-radius:8px; }
+  .brand img{ height:46px; display:block; background:#fff; padding:3px 8px; border-radius:8px; }
   .brand-divider{ width:1px; height:30px; background:var(--ink-line); }
   .title-block h1{
     font-family:'Space Grotesk',sans-serif;
